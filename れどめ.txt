@@ -1,0 +1,7 @@
+これはgit で配布されていたmat -> xmlに変換するスクリプトである
+
+data - train - annotations - xml
+	     	 	   - mat
+	     - images 
+
+といった感じでフォルダを構成しておくと自動で変換してくれる
