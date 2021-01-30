@@ -1,4 +1,4 @@
-# deeptraining_hands
+# 手のデータセットをPascolVOC形式に変換_deeptraining_hands
 
 This is a collection of scripts to setup datasets and/or to convert files of certain boundingbox-annotation formats into another <br />
 Run one or several scripts to get to your desired training format. <br />
