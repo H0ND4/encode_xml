@@ -1,4 +1,4 @@
-これはgit で配布されていたmat -> xmlに変換するスクリプトである
+これは mat -> xmlに変換するスクリプトである
 
 data - train - annotations - xml
 	     	 	   - mat
