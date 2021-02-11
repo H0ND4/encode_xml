@@ -1,7 +1,17 @@
 # 手のデータセットをPascolVOC形式に変換_deeptraining_hands
 
-MySplit.pyでは作成したデータセットを任意の分割数でテストデータと訓練データに分割し，txtファイルで出力する
+## mat2xml
+これは mat -> xmlに変換するスクリプトである
 
+data - train - annotations - xml
+	     	 	   - mat
+	     - images 
+
+といった感じでフォルダを構成しておくと自動で変換してくれる
+
+
+## MySplit.py
+作成したデータセットを任意の分割数でテストデータと訓練データに分割し，txtファイルで出力する
 
 ```
 .
