@@ -1,5 +1,4 @@
-# 手のデータセットをPascolVOC形式に変換_deeptraining_hands
-
+# 手のデータセットをPascolVOC形式に変換
 ## mat_to_xml.py
 mat -> xmlに変換するスクリプトである
 ・フォルダ構成
@@ -48,3 +47,4 @@ matに変換したいmatファイルを置く，変換した結果はxmlフォ�
 │   
 └── model
 ```
+_deeptraining_hands
