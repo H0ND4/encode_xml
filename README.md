@@ -1,6 +1,6 @@
 # 手のデータセットをPascolVOC形式に変換_deeptraining_hands
 
-## mat2xml
+## mat_to_xml.py
 これは mat -> xmlに変換するスクリプトである
 
 data - train - annotations - xml
