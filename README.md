@@ -48,4 +48,3 @@ matに変換したいmatファイルを置く，変換した結果はxmlフォ�
 │   
 └── model
 ```
-See ```howto_tf``` and ```howto_yolo``` for information how to train on yolo or tensorflow
