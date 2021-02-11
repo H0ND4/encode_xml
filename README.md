@@ -1,6 +1,6 @@
 # 手のデータセットをPascolVOC形式に変換_deeptraining_hands
 
-
+MySplit.pyでは作成したデータセットを任意の分割数でテストデータと訓練データに分割し，txtファイルで出力する
 
 
 ```
