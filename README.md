@@ -1,18 +1,23 @@
 # 手のデータセットをPascolVOC形式に変換_deeptraining_hands
 
 ## mat_to_xml.py
-これは mat -> xmlに変換するスクリプトである
-
-data - train - annotations - xml
-	     	 	   - mat
-	     - images 
-
+mat -> xmlに変換するスクリプトである
+・フォルダ構成
+data - train - annotations - xml , mat 
+data - train - images 
 といった感じでフォルダを構成しておくと自動で変換してくれる
+
+matに変換したいmatファイルを置く，変換した結果はxmlフォルダに格納される
+また，対応する画像をimagesフォルダに入れておく
+
+
 
 
 ## MySplit.py
 作成したデータセットを任意の分割数でテストデータと訓練データに分割し，txtファイルで出力する
 
+
+## 全体のフォルダ構成
 ```
 .
 ├── data
